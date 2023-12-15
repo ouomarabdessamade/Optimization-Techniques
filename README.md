@@ -1,10 +1,10 @@
-# Optimization Techniques
+# Optimization Algorithms
 
 ## Overview
 In this project, we have implemented optimization algorithms from scratch for both single-variable and multi-variable functions.
 
 ### Single-variable Functions
-For single-variable functions, the following algorithms have been implemented:
+For single-variable functions, the following algorithms have been implemented :
 
 - **Bisection**
 - **Dichotomous**
@@ -14,7 +14,7 @@ For single-variable functions, the following algorithms have been implemented:
 - **Golden Section**
 
 ### Multi-variable Functions
-For multi-variable functions, the following algorithms have been implemented:
+For multi-variable functions, the following algorithms have been implemented :
 
 - **Gradient Descent**
 - **Conjugate Gradient**
