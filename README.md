@@ -1,26 +1,38 @@
-# Techniques d'Optimisation
+# Optimization Techniques Project
 
-## Aperçu
-Ce projet met en œuvre des algorithmes d'optimisation à partir de zéro, tant pour les fonctions d'une seule variable que pour celles de plusieurs variables.
+## Overview
+In this project, we have implemented optimization algorithms from scratch for both single-variable and multi-variable functions.
 
-### Fonctions d'une Seule Variable
-Nous avons implémenté les algorithmes suivants pour les fonctions d'une seule variable :
+### Single-variable Functions
+For single-variable functions, the following algorithms have been implemented:
 
-- **Bissection** : Algorithme de la bissection pour la recherche de racines. Consultez le fichier [BissectionClasse.py](BissectionClasse.py).
-- **Dichotomique** : Algorithme dichotomique pour la recherche de racines. Vérifiez le fichier [DichotomiqueClasse.py](DichotomiqueClasse.py).
-- **Fausse Position** : Méthode de la fausse position pour la recherche de racines. Consultez [FaussePositionClasse.py](FaussePositionClasse.py).
-- **Fibonacci** : Algorithme de recherche de racines basé sur la suite de Fibonacci. Consultez [FibonacciClasse.py](FibonacciClasse.py).
-- **Newton** : Algorithme de Newton pour la recherche de racines. Vérifiez [NewtonClasse.py](NewtonClasse.py).
-- **Section D'or** : Algorithme de recherche de racines utilisant la méthode de la section dorée. Consultez [SectionDorClasse.py](SectionDorClasse.py).
+- **Bisection**
+- **Dichotomous**
+- **False Position**
+- **Fibonacci**
+- **Newton**
+- **Golden Section**
 
-### Fonctions de Plusieurs Variables
-Pour les fonctions de plusieurs variables, les algorithmes suivants ont été implémentés :
+### Multi-variable Functions
+For multi-variable functions, the following algorithms have been implemented:
 
-- **Gradient Descente** : Algorithme de descente de gradient pour l'optimisation. Vérifiez [GradientDescente.py](GradientDescente.py).
-- **Conjugate Gradient** : Algorithme de gradient conjugué pour l'optimisation. Consultez [ConjugateGradient.py](ConjugateGradient.py).
-- **Newton Multivar** : Algorithme de Newton pour les fonctions de plusieurs variables. Vérifiez [NewtonMultivar.py](NewtonMultivar.py).
-- **Quasi Newton** : Algorithme de quasi-Newton pour l'optimisation. Consultez [QuasiNewtonClasse.py](QuasiNewtonClasse.py).
+- **Gradient Descent**
+- **Conjugate Gradient**
+- **Newton Multivar**
+- **Quasi-Newton**
 
-N'hésitez pas à explorer les fichiers correspondants pour voir les implémentations détaillées de ces algorithmes. Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
+## File Descriptions
+- [Bisection.ipynb](Bisection.ipynb): Implementation of the Bisection algorithm for single-variable functions.
+- [Dichotomous.ipynb](Dichotomous.ipynb): Implementation of the Dichotomous algorithm for single-variable functions.
+- [FalsePosition.ipynb](FalsePosition.ipynb): Implementation of the False Position algorithm for single-variable functions.
+- [Fibonacci.ipynb](Fibonacci.ipynb): Implementation of the Fibonacci algorithm for single-variable functions.
+- [Newton.ipynb](Newton.ipynb): Implementation of the Newton algorithm for single-variable functions.
+- [GoldenSection.ipynb](GoldenSection.ipynb): Implementation of the Golden Section algorithm for single-variable functions.
+- [GradientDescent.ipynb](GradientDescent.ipynb): Implementation of the Gradient Descent algorithm for multi-variable functions.
+- [ConjugateGradient.ipynb](ConjugateGradient.ipynb): Implementation of the Conjugate Gradient algorithm for multi-variable functions.
+- [NewtonMultivar.ipynb](NewtonMultivar.ipynb): Implementation of the Newton Multivariable algorithm.
+- [QuasiNewton.ipynb](QuasiNewton.ipynb): Implementation of the Quasi-Newton algorithm for multi-variable functions.
 
-Bonne exploration !
+Feel free to explore the notebooks for detailed code implementations and explanations. If you have any questions or suggestions, please don't hesitate to reach out.
+
+Happy optimizing!
