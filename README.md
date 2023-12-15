@@ -18,7 +18,7 @@ For multi-variable functions, the following algorithms have been implemented:
 
 - **Gradient Descent**
 - **Conjugate Gradient**
-- **Newton Multivar**
+- **Newton  Multi-variable**
 - **Quasi-Newton**
 
 ## File Descriptions
