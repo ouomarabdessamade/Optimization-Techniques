@@ -22,16 +22,16 @@ For multi-variable functions, the following algorithms have been implemented:
 - **Quasi-Newton**
 
 ## File Descriptions
-- [Bisection.py](Bisection.py): Implementation of the Bisection algorithm for single-variable functions.
-- [Dichotomous.py](Dichotomous.py): Implementation of the Dichotomous algorithm for single-variable functions.
-- [FalsePosition.py](FalsePosition.py): Implementation of the False Position algorithm for single-variable functions.
-- [Fibonacci.py](Fibonacci.py): Implementation of the Fibonacci algorithm for single-variable functions.
-- [Newton.py](Newton.py): Implementation of the Newton algorithm for single-variable functions.
-- [GoldenSection.py](GoldenSection.py): Implementation of the Golden Section algorithm for single-variable functions.
-- [GradientDescent.py](GradientDescent.py): Implementation of the Gradient Descent algorithm for multi-variable functions.
+- [Bisection.py](BissectionClasse.py): Implementation of the Bisection algorithm for single-variable functions.
+- [Dichotomous.py](DichotomiqueClasse.py): Implementation of the Dichotomous algorithm for single-variable functions.
+- [FalsePosition.py](FaussePositionClasse.py): Implementation of the False Position algorithm for single-variable functions.
+- [Fibonacci.py](FibonacciClasse.py): Implementation of the Fibonacci algorithm for single-variable functions.
+- [Newton.py](NewtonClasse.py): Implementation of the Newton algorithm for single-variable functions.
+- [GoldenSection.py](SectionDorClasse.py): Implementation of the Golden Section algorithm for single-variable functions.
+- [GradientDescent.py](GradientDesente.py): Implementation of the Gradient Descent algorithm for multi-variable functions.
 - [ConjugateGradient.py](ConjugateGradient.py): Implementation of the Conjugate Gradient algorithm for multi-variable functions.
 - [NewtonMultivar.py](NewtonMultivar.py): Implementation of the Newton Multivariable algorithm.
-- [QuasiNewton.py](QuasiNewton.py): Implementation of the Quasi-Newton algorithm for multi-variable functions.
+- [QuasiNewton.py](QuasiNewtonClasse.py): Implementation of the Quasi-Newton algorithm for multi-variable functions.
 
 Feel free to explore the notebooks for detailed code implementations and explanations. If you have any questions or suggestions, please don't hesitate to reach out.
 
