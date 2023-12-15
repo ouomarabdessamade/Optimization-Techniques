@@ -33,6 +33,6 @@ For multi-variable functions, the following algorithms have been implemented:
 - [NewtonMultivar.py](NewtonMultivar.py): Implementation of the Newton Multivariable algorithm.
 - [QuasiNewton.py](QuasiNewtonClasse.py): Implementation of the Quasi-Newton algorithm for multi-variable functions.
 
-Feel free to explore the notebooks for detailed code implementations and explanations. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore the Python files for detailed code implementations and explanations. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy optimizing!
