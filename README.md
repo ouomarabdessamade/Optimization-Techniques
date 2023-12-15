@@ -1,4 +1,4 @@
-# Optimization Techniques Project
+# Optimization Techniques
 
 ## Overview
 In this project, we have implemented optimization algorithms from scratch for both single-variable and multi-variable functions.
